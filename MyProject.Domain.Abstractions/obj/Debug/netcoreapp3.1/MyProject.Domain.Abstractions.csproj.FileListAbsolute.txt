@@ -1,0 +1,8 @@
+D:\MyProject\MyProject.Domain.Abstractions\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.deps.json
+D:\MyProject\MyProject.Domain.Abstractions\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.dll
+D:\MyProject\MyProject.Domain.Abstractions\obj\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.csprojAssemblyReference.cache
+D:\MyProject\MyProject.Domain.Abstractions\obj\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.AssemblyInfoInputs.cache
+D:\MyProject\MyProject.Domain.Abstractions\obj\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.AssemblyInfo.cs
+D:\MyProject\MyProject.Domain.Abstractions\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.pdb
+D:\MyProject\MyProject.Domain.Abstractions\obj\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.dll
+D:\MyProject\MyProject.Domain.Abstractions\obj\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.pdb

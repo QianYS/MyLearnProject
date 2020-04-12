@@ -1,0 +1,15 @@
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.deps.json
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.dll
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.pdb
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.dll
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Domain.dll
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.dll
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Domain.pdb
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.pdb
+D:\MyProject\MyProject.Infrastructure\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.pdb
+D:\MyProject\MyProject.Infrastructure\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.csprojAssemblyReference.cache
+D:\MyProject\MyProject.Infrastructure\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.AssemblyInfoInputs.cache
+D:\MyProject\MyProject.Infrastructure\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.AssemblyInfo.cs
+D:\MyProject\MyProject.Infrastructure\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.csproj.CopyComplete
+D:\MyProject\MyProject.Infrastructure\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.dll
+D:\MyProject\MyProject.Infrastructure\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.pdb

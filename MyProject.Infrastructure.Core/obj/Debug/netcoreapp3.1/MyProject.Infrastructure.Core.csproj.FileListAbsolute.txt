@@ -1,0 +1,11 @@
+D:\MyProject\MyProject.Infrastructure.Core\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.deps.json
+D:\MyProject\MyProject.Infrastructure.Core\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.dll
+D:\MyProject\MyProject.Infrastructure.Core\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.csprojAssemblyReference.cache
+D:\MyProject\MyProject.Infrastructure.Core\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.AssemblyInfoInputs.cache
+D:\MyProject\MyProject.Infrastructure.Core\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.AssemblyInfo.cs
+D:\MyProject\MyProject.Infrastructure.Core\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.dll
+D:\MyProject\MyProject.Infrastructure.Core\bin\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.pdb
+D:\MyProject\MyProject.Infrastructure.Core\bin\Debug\netcoreapp3.1\MyProject.Domain.Abstractions.pdb
+D:\MyProject\MyProject.Infrastructure.Core\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.csproj.CopyComplete
+D:\MyProject\MyProject.Infrastructure.Core\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.dll
+D:\MyProject\MyProject.Infrastructure.Core\obj\Debug\netcoreapp3.1\MyProject.Infrastructure.Core.pdb
